@@ -72,6 +72,3 @@ coverage.xml
 
 # macOS
 .DS_Store
-
-# Local env
-uv.lock
