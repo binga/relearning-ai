@@ -72,3 +72,6 @@ coverage.xml
 
 # macOS
 .DS_Store
+
+# model files
+*.pth
