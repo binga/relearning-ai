@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "datasets>=3.6.0",
+    "dspy>=3.0.3",
     "einops>=0.8.1",
     "joblib>=1.5.1",
     "lovely-tensors>=0.1.18",
