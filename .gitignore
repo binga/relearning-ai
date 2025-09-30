@@ -78,3 +78,5 @@ coverage.xml
 
 # experiment files
 nbs/wandb/*
+
+nbs/models/*
