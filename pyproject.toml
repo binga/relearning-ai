@@ -1,5 +1,5 @@
 [project]
-name = "learning-ai"
+name = "relearning-ai"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -12,8 +12,10 @@ dependencies = [
     "lovely-tensors>=0.1.18",
     "matplotlib>=3.10.3",
     "numpy>=2.3.1",
+    "peft>=0.17.1",
     "torch>=2.7.1",
     "torchinfo>=1.8.0",
     "trackio>=0.2.5",
     "transformers>=4.53.1",
+    "trl>=0.23.0",
 ]
